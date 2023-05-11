@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "980244339918",
+    "firebase_url": "https://photomap-7a945.firebaseio.com",
+    "project_id": "photomap-7a945",
+    "storage_bucket": "photomap-7a945.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980244339918:android:0c4e63dc2a7b2f9d",
+        "android_client_info": {
+          "package_name": "com.example.mac_244.photomap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980244339918-88qd1bholvqtagk1dvi3fnkh1eeoact1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mac_244.photomap",
+            "certificate_hash": "3e3f23ed1dac60371240227f3b04d3846f6b2260"
+          }
+        },
+        {
+          "client_id": "980244339918-i4pf48v795glcdkho0mvthndg861nmgo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzpSLLZfB9V3HCGbGD3JeSNNY2AlyT9I0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980244339918-i4pf48v795glcdkho0mvthndg861nmgo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "980244339918-gk4003s7msi4t2p8u5jb95augndesoq6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.photoMapFlutter"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980244339918:android:e3f2bca235b294cd15449f",
+        "android_client_info": {
+          "package_name": "com.example.photo_map_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980244339918-i4pf48v795glcdkho0mvthndg861nmgo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzpSLLZfB9V3HCGbGD3JeSNNY2AlyT9I0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980244339918-i4pf48v795glcdkho0mvthndg861nmgo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "980244339918-gk4003s7msi4t2p8u5jb95augndesoq6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.photoMapFlutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
